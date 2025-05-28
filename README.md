@@ -89,7 +89,8 @@ La **Clínica Salud Vital** es una institución médica de tamaño reducido que 
 
 ## 📸 Captura de la Infraestructura en Packet Tracer
 
-> *(Agrega una imagen aquí si vas a subir el `.pkt` con visual de topología)*
+![image](https://github.com/user-attachments/assets/17394d18-1718-459d-ac43-1b05eb53397f)
+
 
 ---
 
